@@ -1,0 +1,5 @@
+VBGROUP 5.0
+Project=WISPA.vbp
+StartupProject=EnumerationDemo.vbp
+Project=DNS.vbp
+Project=SimpleServer.vbp
